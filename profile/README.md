@@ -29,15 +29,15 @@
     <b> Arquitectura </b>
   </summary><br>
 
-  La arquitectura utilizada es la mostada a continuacion.
+  La arquitectura utilizada es la mostrada a continuacion.
   En esta se ven los respectivos microservicios:
 
   <ol>
   <li>API GATEWAY</li>
   <ol>
   <li>Identity Microservice</li>
-  <li>USer Microservice</li>
-  <li>Paymenst Microservice</li>
+  <li>User Microservice</li>
+  <li>Payments Microservice</li>
   <li>Travels Microservice</li>
   <li>Alarms Microservice</li>
 </ol> 
@@ -47,13 +47,13 @@
 
 <details open>
   <summary>
-    <b> Documentacion individual </b>
+    <b> Documentacion Individual </b>
   </summary><br>
 
 - [ApiGateway](https://github.com/taller2altego/apiGateway/blob/main/README.md)
 - [UserMicroservice](https://github.com/taller2altego/user-microservice/blob/main/README.md)
 - [UserMicroservice](https://github.com/taller2altego/user-microservice/blob/main/README.md)
-- 🚫 Paymenst Microservice
+- [Payments Microservice](https://github.com/taller2altego/payments/blob/main/README.md)
 - [Travels Microservice](https://github.com/taller2altego/travel-microservice/blob/main/README.md)
 - [Alarms Microservice](https://github.com/taller2altego/alarms-microservice/blob/main/README.md)
 
