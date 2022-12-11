@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fiuber Backoffice - user guide"
+title:  "FIUber BackOffice - User Guide"
 date:   2022-12-07 22:55:57 -0300
 categories: jekyll update
 ---
@@ -8,7 +8,7 @@ Desde el BackOffice se puede ejecutar operaciones administrativas. Para utilizar
 
 ## Login
 
-VISTA: Login
+![Login BackOffice](/images/login_backoffice.png)
 
 ## Navegacion y usuarios
 
@@ -17,26 +17,27 @@ VISTA: Login
 Ya logueado, se listan todos los usuarios registrados en el sistema:
 
 VISTA: Usuarios
+![Users](/images/main_page.png)
 
 A los cuales se les puede ver el detalle, bloquearlos y ver las denuncias en su contra con el fin de tomar una decision en cuanto a su acceso al sistema. 
 
-BOTON: Acciones
+![Actions](/images/actions.png)
 
 En el NavBar se puede ir a las demas vistas importantes:
 
-BOTON: NavBar
+![NavBar](/images/menu.png)
 
 ## Carga de saldo
 
 Para cargar saldo en Fiucreditos, saldo interno de la app con , se hace mediante la pantalla accedida mediante el NavBar: 
 
-VISTA: Carga de saldo
+![Load Balance](/images/load_balance.png)
 
 ## Creacion de un nuevo administrador
 
 Para crear un nuevo usuario administrador, se acceder a la pantalla de *Regristrar Admin* en el NavBar:
 
-VISTA: Creacion de admin
+![New Admin](/images/new_admin.png)
 
 ## Cotizaciones
 
@@ -44,45 +45,31 @@ VISTA: Creacion de admin
 
 Una vez en la vista de *Cotizaciones*, se ve el listado de cotizaciones:
 
-VISTA: Listado cotizaciones
+![Tariffs](/images/tariffs.png)
 
 Se puede realizar las acciones listadas a continuacion:
 
-BOTON: acciones quotes
+![Quote Actions](/images/options.png)
 
 ### Detalle y creacion
 
 Dentro del detalle se puede ver el listado de caracteristicas de la cotizacion. A su vez se permite editar un/varios campos con el fin de crear una nueva cotizacion a partir de esta:
 
-VISTA: Detalle quote
+![Quotes](/images/quotes.png)
 
 ### Testeo
 
 Se puede testear cuanto saldria un viaje con diferentes variables de entorno:
 
-VISTA: Testeo quote
+![Tests](/images/tests.png)
 
 ## Metricas
 
 Las metricas son las que se ven en el NavBar, un ejemplo de estas es la siguiente vista de metricas de usuarios:
 
-VISTA: Metricas de usuarios
+![Metrics](/images/metrics.png)
 
 Son muy claras y se entienden con solo leer el titulo. La ventana mostrada es del ultimo dia.
 
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/

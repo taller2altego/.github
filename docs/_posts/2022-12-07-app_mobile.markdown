@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fiuber App - user guide"
+title:  "FIUber App - User Guide"
 date:   2022-12-07 22:55:57 -0300
 categories: jekyll update
 ---
@@ -118,9 +118,9 @@ Una vez iniciada la busqueda, se busca un viaje, miestras tanto usted ve la sigu
 
 ![Driver Searching Travel](/images/driver_searching_travel.png)
 
-Cuando se encuentra un viaje, se muestra el mapa donde se ve la posicion del origen, donde esta el pasajero y tambien se puede visualizar el perfil del usuario asi como cancelar el viaje. 
+Cuando se encuentra un viaje, se muestra el mapa donde se ve la posicion del origen, donde esta el pasajero y tambien se puede visualizar el perfil del usuario asi como cancelar el viaje.
 
-VISTA: Waiting driver
+![Driver Incoming](/images/driver_incoming.png)
 
 Una vez se llega al origen del viaje, la app se ve de la siguiente manera y se puede iniciar el viaje a destino. Una vez iniciado el viaje ya no se puede cancelar.
 
@@ -129,18 +129,3 @@ VISTA: Travel in progress driver
 Al finalizar el viaje deberas puntuar el pasajero y podras dejar un comentario.
 
 VISTA: La del viaje terminado para puntuar del driver
-
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
